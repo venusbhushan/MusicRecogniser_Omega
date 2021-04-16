@@ -8,3 +8,5 @@ Configuration options
 SQLite has been used for sake of simplicity and because there is only one user, as of now it works only on local device.
 
 Inside fingerprint.py the values has been optimised more for speed rather than accuracy
+
+Recognition Time with 40 songs in DB: 5.91 seconds
